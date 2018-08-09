@@ -1,0 +1,6 @@
+framework module Pods_MultiScanUITests {
+  umbrella header "Pods-MultiScanUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

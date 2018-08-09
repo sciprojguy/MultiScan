@@ -1,0 +1,26 @@
+PODS:
+  - CSV.swift (2.2.1)
+  - sqlite3 (3.24.0):
+    - sqlite3/common (= 3.24.0)
+  - sqlite3/common (3.24.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - CSV.swift (~> 2.2.1)
+  - sqlite3
+  - Toast-Swift (~> 3.0.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CSV.swift
+    - sqlite3
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  CSV.swift: 5bf3338aff82371cb51cc6dc559d7b45a74bab14
+  sqlite3: 3ba3b687e159a637b40df3438b860f7b3fe60a96
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 168dcb04a00277e158a2518aaa8726b7c114df55
+
+COCOAPODS: 1.5.3

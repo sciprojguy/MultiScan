@@ -1,0 +1,6 @@
+framework module Pods_MultiScan {
+  umbrella header "Pods-MultiScan-umbrella.h"
+
+  export *
+  module * { export * }
+}
